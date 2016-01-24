@@ -1,0 +1,14 @@
+<resources>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="name">Nome</string>
+    <string name="send">Enviar</string>
+    <string name="message">Mensagem</string>
+    <string name="app_name">ParsePush</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_notification">Mostrar notificação?</string>
+
+    <string name="enter_a_name">Informe seu nome</string>
+    <string name="enter_a_message">Informe uma mensagem</string>
+    <string name="enter_a_message_before_sending">Informe uma mensagem antes de enviar.</string>
+</resources>
